@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eray\\Documents\\GitHub\\sigma6database\\sigma6-project\\sigma6-project.csproj",
-      "projectName": "sigma6-project",
-      "projectPath": "C:\\Users\\Eray\\Documents\\GitHub\\sigma6database\\sigma6-project\\sigma6-project.csproj",
+      "projectUniqueName": "C:\\Users\\Eray\\Desktop\\202804004erayselvi\\sigma6project\\sigma6project\\sigma6project.csproj",
+      "projectName": "sigma6project",
+      "projectPath": "C:\\Users\\Eray\\Desktop\\202804004erayselvi\\sigma6project\\sigma6project\\sigma6project.csproj",
       "packagesPath": "C:\\Users\\Eray\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eray\\Documents\\GitHub\\sigma6database\\sigma6-project\\obj\\",
+      "outputPath": "C:\\Users\\Eray\\Desktop\\202804004erayselvi\\sigma6project\\sigma6project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eray\\AppData\\Roaming\\NuGet\\NuGet.Config",

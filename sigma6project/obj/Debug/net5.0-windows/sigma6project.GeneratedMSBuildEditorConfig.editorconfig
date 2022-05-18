@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = sigma6_project
-build_property.ProjectDir = C:\Users\Eray\Documents\GitHub\sigma6database\sigma6-project\
+build_property.RootNamespace = sigma6project
+build_property.ProjectDir = C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\

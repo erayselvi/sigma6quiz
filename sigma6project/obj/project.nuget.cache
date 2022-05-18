@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w/b0LwlpSmh55dmX4J3bJ0xQBLZVyZgLOS6HVziulsfHNTiR1URtccOtJoJZNncpv1B4rG1JZu6Uw8jtE2WueA==",
+  "dgSpecHash": "yIXJrxsWWErdQAZ4hu0P7XA+YwEVZoCtzDP5DVJTsmUMHjXjNbjC0ugdZ12T992gCNbnjIbR/utaBYFWTpIq1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eray\\Documents\\GitHub\\sigma6database\\sigma6-project\\sigma6-project.csproj",
+  "projectFilePath": "C:\\Users\\Eray\\Desktop\\202804004erayselvi\\sigma6project\\sigma6project\\sigma6project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eray\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Eray\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

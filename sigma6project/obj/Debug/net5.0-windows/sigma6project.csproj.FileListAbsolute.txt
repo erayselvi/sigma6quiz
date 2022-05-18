@@ -1,0 +1,93 @@
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.csproj.AssemblyReference.cache
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.Form1.resources
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.RegisterPage.resources
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.csproj.GenerateResource.cache
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.AssemblyInfoInputs.cache
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.AssemblyInfo.cs
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.csproj.CoreCompileInputs.cache
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.exe
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.deps.json
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.runtimeconfig.json
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.runtimeconfig.dev.json
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.dll
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\bin\Debug\net5.0-windows\ref\sigma6project.dll
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.pdb
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.csproj.CopyComplete
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.dll
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\ref\sigma6project.dll
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.pdb
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.genruntimeconfig.cache
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.LoginPage.resources
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.QuizPage.resources
+C:\Users\Eray\Desktop\Yazılım yapımı proje\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.ExaminerPage.resources
+C:\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.exe
+C:\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.deps.json
+C:\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.runtimeconfig.json
+C:\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.runtimeconfig.dev.json
+C:\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.dll
+C:\sigma6project\sigma6project\bin\Debug\net5.0-windows\ref\sigma6project.dll
+C:\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.pdb
+C:\sigma6project\sigma6project\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.csproj.AssemblyReference.cache
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.ExaminerPage.resources
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.LoginPage.resources
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.QuizPage.resources
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.RegisterPage.resources
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.csproj.GenerateResource.cache
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.GeneratedMSBuildEditorConfig.editorconfig
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.AssemblyInfoInputs.cache
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.AssemblyInfo.cs
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.csproj.CoreCompileInputs.cache
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.csproj.CopyComplete
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.dll
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\ref\sigma6project.dll
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.pdb
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.genruntimeconfig.cache
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.Properties.Resources.resources
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.AdminPage.resources
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.Password.resources
+C:\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.MainPage.resources
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.exe
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.deps.json
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.runtimeconfig.json
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.runtimeconfig.dev.json
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.dll
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\bin\Debug\net5.0-windows\ref\sigma6project.dll
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\bin\Debug\net5.0-windows\sigma6project.pdb
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.csproj.AssemblyReference.cache
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.AdminPage.resources
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.ExaminerPage.resources
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.LoginPage.resources
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.MainPage.resources
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.Password.resources
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.QuizPage.resources
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.RegisterPage.resources
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.Properties.Resources.resources
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.csproj.GenerateResource.cache
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.AssemblyInfoInputs.cache
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.AssemblyInfo.cs
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.csproj.CoreCompileInputs.cache
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.csproj.CopyComplete
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.dll
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\ref\sigma6project.dll
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.pdb
+C:\Users\Eray\Desktop\202804004erayselvi\sigma6project\sigma6project\obj\Debug\net5.0-windows\sigma6project.genruntimeconfig.cache
