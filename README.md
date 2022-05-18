@@ -1,8 +1,8 @@
 #sigma6project.sln version 1.1 çalıştırılacak.
 #sigma6.bak implemente edilierek veritabanı bağlantısı yapılacaktır.
 
-#LoginPage 
--Kayıt Butonu;
+# LoginPage 
+- Kayıt Butonu;
   RegisterPage açılır. Kullanıcı adı şifre mail ad soyad ve hesap türü belirlenir. Girilen veriler Personal veritipinde databasemizdeki InsertPerson metodumuza parametre olarak gönderilir ve kayıt edilir.
   Kayıt ekranında şifre kontrolu yapılır ve eşleşmesi gerekmektedir.
 
@@ -12,24 +12,24 @@
   Böylece Açılacak page belirlenir.
   - Şifremi Unuttum;
   - Mail adresi ile şifre kurtarma yapılır.
-  #ExaminerPage(SınavSorumlusu)
+  # ExaminerPage(SınavSorumlusu)
    - Soru Ekleme;
     Sorunun üst alt bilgi, resim yolu, doğru ve diğer şıkları Question veri tipinde databasemize QuestionAdd'a parametre olarak gönderilerek soru eklenir.
     (Eklenen sorular admin tarafından onaylanması gerekmektedir)
    
-   #AdminPage
+   #  AdminPage
    - Load olduğunda database ile QuestionAdminData metodu aracılığıyla onaylanmamış sorular çekilir.
    - Onaylanmamış sorular onayla butonu ile AdminQuestionConfirmation ile T edilir ve onaylanır.
    - İstenirse soru ekleme ekranına gidilebilir.
    
-   #MainPage(ÖğrenciGiriş)
+   # MainPage(ÖğrenciGiriş)
    - Süresiz Quiz
    - Süreli Quiz
    - Analiz butonları bulunmaktadır.
-   #(Sigma6 Algoritmasını aşağıda anlattım) Database.cd'de  QuizSigma6 metodunda; 
+   # (Sigma6 Algoritmasını aşağıda anlattım) Database.cd'de  QuizSigma6 metodunda; 
    - "select * from QuizDetail where isTrue='T' and QuizID=(select top 1 QuizID from UserExamResults where 1<=datediff(day,QuizDate,getdate()) Order BY QuizDate DESC)"
    where 0<=datediff yapılarak soru sıklığı değiştirilip gün içerisindeki quizin doğru cevapları sigma prensibi ile quiz öncesi çekilerek test edilebilir.
-   --       Quiz başladığında UserExamResults veritabanı tablosu create edilir. UserID(sınava giren kişinin idsi),QuızId(otomatik atanır),QuizDate(Bugunun tarihi) ve quizid     return edilir.
+   -  Quiz başladığında UserExamResults veritabanı tablosu create edilir. UserID(sınava giren kişinin idsi),QuızId(otomatik atanır),QuizDate(Bugunun tarihi) ve    quizid return edilir.
       - Quizde cevaplanan sorular return edilen quizid ile QuestionDetails tablosunda cevaplanan her sorunun doğru yanlış ve boş işaretlediği tutulur ve gerekli sorguyu     kullanarak sigma6prensibini projeye implemente ettim.
       - Böylece;
        Quiz başlatıldığında ilk olarak database classımızdan Sigma6Load çalışır. Soru sıklığı otomatik 1 gün tanımlanmıştır. 1 gün önce yapılan quiz için doğru yapılan       sorular quiz öncesi load edilir. Sigma6 ile çekilen sorular cevaplandıktan sonra 10 tane rastgele quiz sorusu QuizStart ile load edilir.
