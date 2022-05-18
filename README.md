@@ -10,16 +10,16 @@
   Kullanıcı ve şifre textbox içindeki verileri Personal veritipinde databasemizdeki LoginPerson metoduna parametre olarak gönderiyoruz.
   Veriler eşleşiyor ve doğru ise giriş yapılan kullanıcının UserTypeId return edilir.
   Böylece Açılacak page belirlenir.
-  -Şifremi Unuttum;
-   Mail adresi ile şifre kurtarma yapılır.
+  - Şifremi Unuttum;
+  - Mail adresi ile şifre kurtarma yapılır.
   #ExaminerPage(SınavSorumlusu)
-   -Soru Ekleme;
+   - Soru Ekleme;
     Sorunun üst alt bilgi, resim yolu, doğru ve diğer şıkları Question veri tipinde databasemize QuestionAdd'a parametre olarak gönderilerek soru eklenir.
     (Eklenen sorular admin tarafından onaylanması gerekmektedir)
    
    #AdminPage
-   -Load olduğunda database ile QuestionAdminData metodu aracılığıyla onaylanmamış sorular çekilir.
-   -Onaylanmamış sorular onayla butonu ile AdminQuestionConfirmation ile T edilir ve onaylanır.
+   - Load olduğunda database ile QuestionAdminData metodu aracılığıyla onaylanmamış sorular çekilir.
+   - Onaylanmamış sorular onayla butonu ile AdminQuestionConfirmation ile T edilir ve onaylanır.
    - İstenirse soru ekleme ekranına gidilebilir.
    
    #MainPage(ÖğrenciGiriş)
