@@ -24,9 +24,11 @@
    #MainPage(ÖğrenciGiriş)
    -Süresiz Quiz
    -Süreli Quiz
-   -Analiz butonları bulunmaktadır.(Sigma6 Algoritmasını aşağıda anlattım)
+   -Analiz butonları bulunmaktadır.#(Sigma6 Algoritmasını aşağıda anlattım)
        Quiz başladığında UserExamResults veritabanı tablosu create edilir. UserID(sınava giren kişinin idsi),QuızId(otomatik atanır),QuizDate(Bugunun tarihi) ve quizid     return edilir.
        Quizde cevaplanan sorular return edilen quizid ile QuestionDetails tablosunda cevaplanan her sorunun doğru yanlış ve boş işaretlediği tutulur ve gerekli sorguyu     kullanarak sigma6prensibini projeye implemente ettim.
        Böylece;
        Quiz başlatıldığında ilk olarak database classımızdan Sigma6Load çalışır. Soru sıklığı otomatik 1 gün tanımlanmıştır. 1 gün önce yapılan quiz için doğru yapılan       sorular quiz öncesi load edilir. Sigma6 ile çekilen sorular cevaplandıktan sonra 10 tane rastgele quiz sorusu QuizStart ile load edilir.
     -İstenir ise UserExamResults QuizDetails innerjoin ile genel bir analiz rapor oluşturulabilir(tamamlayamadım)
+
+
