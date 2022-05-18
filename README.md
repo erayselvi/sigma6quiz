@@ -28,7 +28,7 @@
    - Analiz butonları bulunmaktadır.
    # (Sigma6 Algoritmasını aşağıda anlattım) Database.cd'de  QuizSigma6 metodunda; 
    - "select * from QuizDetail where isTrue='T' and QuizID=(select top 1 QuizID from UserExamResults where 1<=datediff(day,QuizDate,getdate()) Order BY QuizDate DESC)"
-   -Sorgusundaki " where 0<=datediff " yapılarak soru sıklığı değiştirilip gün içerisindeki quizin doğru cevapları sigma prensibi ile quiz öncesi çekilerek test edilebilir.
+   - Sorgusundaki " where 0<=datediff " yapılarak soru sıklığı değiştirilip gün içerisindeki quizin doğru cevapları sigma prensibi ile quiz öncesi çekilerek test edilebilir.
    -  Quiz başladığında UserExamResults veritabanı tablosu create edilir. UserID(sınava giren kişinin idsi),QuızId(otomatik atanır),QuizDate(Bugunun tarihi) ve    quizid return edilir.
       - Quizde cevaplanan sorular return edilen quizid ile QuestionDetails tablosunda cevaplanan her sorunun doğru yanlış ve boş işaretlediği tutulur ve gerekli sorguyu     kullanarak sigma6prensibini projeye implemente ettim.
       - Böylece;
