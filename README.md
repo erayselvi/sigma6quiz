@@ -6,7 +6,7 @@
   RegisterPage açılır. Kullanıcı adı şifre mail ad soyad ve hesap türü belirlenir. Girilen veriler Personal veritipinde databasemizdeki InsertPerson metodumuza parametre olarak gönderilir ve kayıt edilir.
   Kayıt ekranında şifre kontrolu yapılır ve eşleşmesi gerekmektedir.
 
--Giriş Butonu;
+- Giriş Butonu;
   Kullanıcı ve şifre textbox içindeki verileri Personal veritipinde databasemizdeki LoginPerson metoduna parametre olarak gönderiyoruz.
   Veriler eşleşiyor ve doğru ise giriş yapılan kullanıcının UserTypeId return edilir.
   Böylece Açılacak page belirlenir.
